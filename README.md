@@ -1,2 +1,3 @@
-# llama.rs
-Llama 2 implementation w/ Rust &amp; HF Candle
+# Llama 2
+
+Llama 2 implementation in Rust using HF Candle
